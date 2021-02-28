@@ -55,7 +55,7 @@ body {
 }
 .navigation-link:hover,
 .navigation-link:focus {
-  background-color: var(--akcent-color);
+  color: var(--akcent-color);
 }
 .contact-mail {
   font-weight: 500;
@@ -75,11 +75,11 @@ body {
 }
 .contact-tel:hover,
 .contact-tel :focus {
-  background-color: var(--akcent-color);
+  color: var(--akcent-color);
 }
 .contact-mail:hover,
 .contact-mail:focus {
-  background-color: var(--akcent-color);
+  color: var(--akcent-color);
 }
 /*=========HERO========*/
 .herro-title {
